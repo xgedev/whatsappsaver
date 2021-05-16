@@ -19,7 +19,7 @@ exports.run = async () => {
  fs.writeFileSync(`${__dirname}/auth_info.json`, JSON.stringify(client.base64EncodedAuthInfo()));
 
  try {
-  fs.mkdirSync(`${__dirname}/chats/${client.user.jid.replace("@s.whatsapp.net", "")}`);
+  fs.mkdirSync(`${__dirname}/accounts`);
  } catch (err) {}
 
  setTimeout(() => { // wait 5 seconds until contacts & chats are cached
