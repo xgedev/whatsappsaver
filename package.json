@@ -1,0 +1,16 @@
+{
+  "name": "whatsappsaver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Xge",
+  "license": "GNU General Public License v3.0",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.0",
+    "image-downloader": "^4.0.2",
+    "json-format": "^1.0.1"
+  }
+}
