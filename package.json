@@ -9,9 +9,9 @@
   "author": "Xge",
   "license": "GNU General Public License v3.0",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.0",
-    "image-downloader": "^4.0.2",
-    "json-format": "^1.0.1"
+    "@adiwajshing/baileys": "3.5.0",
+    "image-downloader": "4.0.2",
+    "json-format": "1.0.1"
   },
   "engines": {
     "npm": ">=7.0.0",
