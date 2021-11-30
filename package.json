@@ -12,5 +12,9 @@
     "@adiwajshing/baileys": "^3.5.0",
     "image-downloader": "^4.0.2",
     "json-format": "^1.0.1"
-  }
+  },
+  "engines": {
+    "npm": ">=7.0.0",
+    "node": ">=16.0.0"
+  },
 }
