@@ -1,3 +1,21 @@
+# ⚠️ No longer working - Alternative ways
+WhatsApp Web has changed over the years and is no longer compatible with the (now deleted) library [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys) this repository used.
+
+Unfortunately I do not have time to update this repository's code to work with [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys).
+
+However, WhatsApp now provides a built-in way to backup your chats. Go to your WhatsApp settings > Chats > Chat history > Export chat.
+<br>
+<br>
+<br>
+<br>
+<br>
+> Previous README below.
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # whatsappsaver
 Backup all WhatsApp chats, including all kinds of media
 
